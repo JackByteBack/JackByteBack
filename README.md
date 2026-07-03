@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 |Project                                                                       |Description                                            |Tech           |Live                                                          |
 |------------------------------------------------------------------------------|-------------------------------------------------------|---------------|--------------------------------------------------------------|
 |🖼️ [Snap2PDF](https://github.com/JackByteBack/Snap2pdf-)                       |Convert images to PDF in the browser — no server needed|HTML, JS, jsPDF|[snap2pdf-sigma.vercel.app](https://snap2pdf-sigma.vercel.app)|
-|🌦️ [Weather App](https://github.com/JackByteBack/Weatherappsimple-API-)        |Simple weather app using live API data                 |JavaScript, API|—                                                             |
+|🌦️ [Weather App](https://github.com/JackByteBack/Weatherappsimple-API-)        |Simple weather app using live API data                 |JavaScript, API|[https://weatherappsimple-api.vercel.app](https://weatherappsimple-api.vercel.app)|
 |🖥️ [Computer Lab Management](https://github.com/JackByteBack/computer-lab-mgmt)|Web-based lab management system                        |HTML, JS       |—                                                             |
 |🏫 [TCET Hub](https://github.com/JackByteBack/hub)                             |Student portal for notices, results & resources        |JavaScript     |—                                                             |
 
